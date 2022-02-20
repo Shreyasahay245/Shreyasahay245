@@ -6,4 +6,3 @@
 - 🌱 I’m currently learning ..MERN stack, Andriod dev.
 - 😄 Pronouns: .She/Her..
 - ⚡ Interest: .Cp,Creative Skills..
--->
