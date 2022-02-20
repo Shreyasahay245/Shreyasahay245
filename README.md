@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Shreya Sahay 👋
+### Education: Birla Institute of Technology.
 
 
 - 🔭 I’m currently working on .C++,Web dev..
