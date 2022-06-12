@@ -3,6 +3,6 @@
 
 
 - 🔭 I’m currently working on .C++,Web dev..
-- 🌱 I’m currently learning ..MERN stack, Andriod dev, machine learning.
+- 🌱 I’m currently learning ..MERN stack, Andriod dev, Machine learning.
 - 😄 Pronouns: .She/Her..
-- ⚡ Interest: .Cp,Creative Skills..
+- ⚡ Interest: .Competitive Programming,Web Dev
