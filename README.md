@@ -7,3 +7,7 @@
 - 🗨️Ask me about Data Structure And Algorithms..😁
 - 😄 Pronouns: .She/Her..
 - ⚡ Interest: .Competitive Programming,Web Dev
+
+
+
+https://github-readme-stats.vercel.app/api?username=Shreyasahay245
