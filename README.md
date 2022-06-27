@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms😁😉**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shreya-sahay-7419a6207/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/shreya-sahay-7419a6207/">**LinkedIn** </a>
 
 - ⚡ Fun fact **I'm a funny person🤣**
 
